@@ -8,7 +8,7 @@
 
 import RxDataSources
 import RxSwift
-import UIKit
+import UIKit22
 
 extension ProfileViewController {
     
